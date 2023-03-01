@@ -1,0 +1,10 @@
+Dicionário Inglês > Português
+
+explain = explicar
+output = saída
+quotes = aspas
+readable = legível
+slashes = barras
+stores = lojas
+surrounded = cercado  
+whole = inteiro

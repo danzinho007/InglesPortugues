@@ -1,10 +1,279 @@
-Dicionário Inglês > Português
+﻿Dicionário Inglês > Português
 
-explain = explicar
-output = saída
-quotes = aspas
-readable = legível
-slashes = barras
-stores = lojas
-surrounded = cercado  
-whole = inteiro
+A
+aftermath = resultado(OK)
+aid = ajuda
+ambush = 
+assessment = avaliação
+
+B
+badly = mal (OK)
+bastion = 
+beastmen = 
+beaten = espancado
+below = abaixo (OK)
+besides = além de (OK)
+beyond = além (OK) 
+bidding = licitação (OK)
+blossoms = flores
+blows = golpes (OK)
+blunt = contundente (OK)
+bold = 
+bothered = incomodado (OK) 
+branble = branquela (OK) 
+breeze = brisa
+
+C
+cables = 
+cardved = cardado
+charting = gráficos (OK) 
+charsms = carismas
+cheering = torcendo(OK)
+chopping = cortando
+chug = ???
+cleanse = limpar(OK)
+climbed = subiu (OK) 
+coated = revestido
+coward = 
+crash = acidente (OK) 
+crashed = caiu (OK) 
+creaky = rangente
+creeping = 
+crusty = crocante (OK) 
+
+D
+dandy = elegante(OK)
+deeper = mais profundo
+delay = atraso (OK) 
+delayed = atrasado (OK) 
+despite = apesar(OK)
+doesn't = 
+doubt = dúvida(OK)
+dragged = arrastado (OK) 
+drawers = gavetas(OK)
+dry = seco(OK)
+
+E
+eager = 
+earthen = terroso (OK) 
+efforts = esforços (OK) 
+elbow = cotovelo
+elders = anciãos(OK)
+entrusted = 
+explain = explicar (OK)
+
+F
+fallen = caído (OK)
+far = longe
+far-off = longe (OK) 
+faraway = longe
+faring = ???
+fated = predestinado (OK) 
+fates = destinos (OK) 
+fault = falha (OK) 
+fearless = destemido(OK)
+felled = derrubado(OK)
+fledgling = calouro(OK)
+flows = 
+foe = inimigo (OK)
+foreshadow = prenúncio (OK) 
+full-fledged = completo
+
+G
+gaps = 
+gasket = 
+getting = obtendo (OK) 
+glimmer = 
+golden sun = sol dourado(OK)
+gotten = obtido(OK)
+grasp = agarrar
+grip = pegada (OK)
+guess = palpite (OK)
+gulped = engoliu em seco
+gumption =  bom senso
+
+H
+had = tive (OK)
+hallowed = santificado
+handsome = bonito(OK)
+hang = pendurar
+harder = mais difícil
+hatching = eclosão (OK) 
+head = cabeça (OK) 
+hear = ouvir (OK) 
+heat = calor(OK)
+held = realizada
+highlands = terras altas(OK)
+hope = esperança(OK)
+huddled = amontoado (OK) 
+huge = enorme
+
+I
+into = em (OK) 
+itching = 
+
+L
+lack = falta (OK)
+leaf = folha(OK)
+lifeblood = sangue vital(OK)
+lowlands = terras baixas(OK)
+lumberjack = lenhador (OK) 
+
+M
+matter = matéria (OK)
+mean = média (OK) 
+mess = bagunça(OK)
+might = pode(OK)
+mighty = poderoso (OK) 
+mood = humor (OK)
+mustn't = não deve (OK) 
+nag = chato(OK)
+noise = ruído (OK)
+
+O
+oaf = idiota (OK) 
+off = desligado (OK) 
+once = uma vez (OK) 
+once-glittering = 
+outgrowing = superando (OK)
+output = saída (OK)
+over = sobre (OK) 
+
+P
+plaguing = assolando
+plateau = platô (OK)
+pout = 
+pretty = bonita (OK)
+prey = 
+pulled = puxado (OK)
+
+Q 
+quakes = terremotos
+queasy = enjoado
+quotes = aspas (OK)
+
+R
+ranges = intervalos(OK)
+reach = alcance (OK) 
+readable = legível (OK)
+realm = reino (OK) 
+reckless = irresponsável (OK)
+refugees = refugiados (OK)
+remain =  
+reshaped = reformulado(OK)
+rested = descansado (OK) 
+rickety = frágil
+riled = irritado (OK) 
+roasts = assados (OK)
+robbed = roubado (OK)
+
+S
+sake = bem / saqueê (OK) 
+sap = seiva (OK)
+scaling =  
+scared = 
+scattered = espalhados
+scholars = estudiosos
+scorched = queimado(OK)
+seeing = 
+seek = procurar
+setbacks = contratempos(OK)
+settled = resolvido (OK) 
+settlement = liquidação (OK) 
+shaky = trêmulo
+shall = deve (OK)
+shatters = quebra (OK) 
+shies = timidez
+shrank = encolheu
+shut = fechar (OK)
+silly = 
+siphons = sifões (OK) 
+slashes = barras (OK)
+slave = escravo (OK)
+slumber = sono
+
+Sm
+smell = cheiro (OK)
+smidge = borrão (OK) 
+soarwing = voando alto (OK)
+soften = suavizar(OK)
+spawling = ???
+spends = 
+spring = primavera (OK)
+squash = 
+standby = espera (OK) 
+stepped = escalonado (OK)
+still = ainda
+straightened = endireitado (OK) 
+stoked = feliz
+stores = lojas (OK)
+strewing = espalhando
+stubborn = teimoso(OK)
+suckers = otários
+sun = sol(OK)
+supposed = suposto
+surrounded = cercado  (OK)
+swang = ???
+
+T
+tame = manso(OK)
+thankful = grato (OK) 
+their = seus (OK) 
+there = ai(OK)
+thoroughly = completamente
+thousand = mil (OK)
+thought = pensamento (OK)
+thriving = 
+throughout = 
+torch = tocha (OK)
+tough = difícil (OK) 
+trip = viagem (OK) 
+trouble = problema(OK)
+troublemaker = encrenqueiro(OK)
+trusted = confiável
+twerp = 
+
+U
+under = sob(OK)
+unleashes = desencadeia  (OK)
+upset =  chateado (OK)
+
+V
+vanished = 
+
+W
+wall-like = tipo parede(OK)
+wanderers = andarilhos(OK)
+waste = lixo (OK) 
+wayward = rebelde
+weary = cansado(OK)
+went = foi(OK)
+were = 
+Yeah, the ruins were huge!
+Werent = não eram(OK)
+whatsoever = 
+wheter = onde
+whirl = redemoinho
+whittling = talhar
+who = quem (OK) 
+whole = inteiro (OK)
+widely = largamente (OK)
+widespread = generalizado(OK)
+willing = disposto
+wits = sagacidade(OK)
+woodsmen = lenhadores
+worried = preocupado (OK) 
+worthy = digno
+wounded = ferido (OK)
+wounds = feridas(OK)
+wraps = envolve(OK)
+
+Frases :
+
+sake
+Most people in Weyard have no ideat that Vale was sacrificed  for the sake of the world
+A maioria das pessoas em Weyard não tem ideia de que Vale foi sacrificado pelo bem do mundo.
+
+there
+Meet him there
+Encontre-o lá

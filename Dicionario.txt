@@ -1,127 +1,135 @@
 ﻿Dicionário Inglês > Português
 
 A
-aftermath = resultado(OK)
-aid = ajuda
-ambush = 
-assessment = avaliação
+aftermath = resultado (01)
+aid = ajuda (02)
+ambush = emboscada (03)
+assessment = avaliação (04)
 
 B
-badly = mal (OK)
-bastion = 
-beastmen = 
-beaten = espancado
-below = abaixo (OK)
-besides = além de (OK)
-beyond = além (OK) 
-bidding = licitação (OK)
-blossoms = flores
-blows = golpes (OK)
-blunt = contundente (OK)
-bold = 
-bothered = incomodado (OK) 
-branble = branquela (OK) 
-breeze = brisa
+badly = mal (O5)
+bastion = bastião (06)
+beastmen =  homem-fera (07)
+beaten = espancado (08)
+below = abaixo (O9)
+besides = além de (10)
+beyond = além (11)
+bidding = licitação (12)
+blossoms = flores (13)
+blows = golpes (14)
+blunt = contundente (15)
+bold = negrito (16)
+bothered = incomodado (17)
+branble = branquela (18)
+breeze = brisa (19)
 
 C
-cables = 
-cardved = cardado
-charting = gráficos (OK) 
-charsms = carismas
-cheering = torcendo(OK)
-chopping = cortando
+cables = cabos (20)
+cardved = cardado (21)
+charting = gráficos (22) 
+charsms = carismas (23)
+cheering = torcendo(24)
+chopping = cortando (25)
 chug = ???
-cleanse = limpar(OK)
-climbed = subiu (OK) 
-coated = revestido
-coward = 
-crash = acidente (OK) 
-crashed = caiu (OK) 
-creaky = rangente
-creeping = 
-crusty = crocante (OK) 
+cleanse = limpar(26)
+climbed = subiu (27) 
+coated = revestido(28)
+coward = covarde(29)
+crash = acidente (30)
+crashed = caiu (31)
+creaky = rangente (32)
+creeping = rastejando (33)
+crossbows = bestas (34)
+crusty = crocante (35)
 
 D
-dandy = elegante(OK)
-deeper = mais profundo
-delay = atraso (OK) 
-delayed = atrasado (OK) 
-despite = apesar(OK)
-doesn't = 
-doubt = dúvida(OK)
-dragged = arrastado (OK) 
-drawers = gavetas(OK)
-dry = seco(OK)
+damaging = prejudicial 
+dandy = elegante (36)
+deeper = mais profundo (37)
+delay = atraso (38)
+delayed = atrasado (39)
+despite = apesar (40)
+doesn't = não (41)
+doubt = dúvida (42)
+dragged = arrastado (43) 
+drawers = gavetas44)
+dry = seco(45)
 
 E
-eager = 
-earthen = terroso (OK) 
-efforts = esforços (OK) 
-elbow = cotovelo
-elders = anciãos(OK)
-entrusted = 
-explain = explicar (OK)
+eager = ansioso (46)
+earthen = terroso (47)
+efforts = esforços (48) 
+elbow = cotovelo (49)
+elders = anciãos (50)
+entrusted = confiado (51)
+explain = explicar (52)
 
 F
-fallen = caído (OK)
-far = longe
-far-off = longe (OK) 
-faraway = longe
+fallen = caído (53)
+far = longe (54)
+far-off = longe (55)
+faraway = longe (56)
 faring = ???
-fated = predestinado (OK) 
-fates = destinos (OK) 
-fault = falha (OK) 
-fearless = destemido(OK)
-felled = derrubado(OK)
-fledgling = calouro(OK)
-flows = 
-foe = inimigo (OK)
-foreshadow = prenúncio (OK) 
-full-fledged = completo
+fated = predestinado (57)
+fates = destinos (58)
+fault = falha (59)
+fearless = destemido (60)
+felled = derrubado(61)
+fledgling = calouro(62)
+flows = fluxos (63)
+foe = inimigo (64)
+foreshadow = prenúncio (65) 
+full-fledged = completo (66)
 
 G
-gaps = 
-gasket = 
-getting = obtendo (OK) 
-glimmer = 
-golden sun = sol dourado(OK)
-gotten = obtido(OK)
-grasp = agarrar
-grip = pegada (OK)
-guess = palpite (OK)
-gulped = engoliu em seco
-gumption =  bom senso
+gaps = lacunas (67)
+gasket = junta (68)
+getting = obtendo (69)  
+glimmer = brilho (70)
+golden sun = sol dourado(71)
+gotten = obtido(72)
+grasp = agarrar (73)
+grip = pegada (74)
+guess = palpite (75)
+gulped = engoliu em seco (76)
+gumption =  bom senso(77)
 
 H
-had = tive (OK)
-hallowed = santificado
-handsome = bonito(OK)
-hang = pendurar
-harder = mais difícil
-hatching = eclosão (OK) 
-head = cabeça (OK) 
-hear = ouvir (OK) 
-heat = calor(OK)
-held = realizada
-highlands = terras altas(OK)
-hope = esperança(OK)
-huddled = amontoado (OK) 
-huge = enorme
+had = tive (78)
+hallowed = santificado (79)
+handsome = bonito (80)
+hang = pendurar (81)
+harder = mais difícil (82)
+hatching = eclosão (83)
+hatred = ódio (84)
+head = cabeça (85) 
+hear = ouvir (86) 
+heat = calor(87)
+held = realizada (88)
+hell = inferno (89)
+highlands = terras altas (90)
+hitting = bater (91)
+hope = esperança(92)
+huddled = amontoado (93) 
+huge = enorme (94)
+hunter = caçador (95)
 
 I
-into = em (OK) 
-itching = 
+into = em (96) 
+itching = coceira (97)
 
 L
-lack = falta (OK)
-leaf = folha(OK)
-lifeblood = sangue vital(OK)
+lack = falta (98)
+leaf = folha(99)
+lifeblood = sangue vital(100)
+likely = provável
 lowlands = terras baixas(OK)
 lumberjack = lenhador (OK) 
 
 M
 matter = matéria (OK)
 mean = média (OK) 
+melee = corpo a corpo
 mess = bagunça(OK)
 might = pode(OK)
 mighty = poderoso (OK) 
@@ -159,6 +167,7 @@ readable = legível (OK)
 realm = reino (OK) 
 reckless = irresponsável (OK)
 refugees = refugiados (OK)
+relies = 
 remain =  
 reshaped = reformulado(OK)
 rested = descansado (OK) 
@@ -180,6 +189,8 @@ seek = procurar
 setbacks = contratempos(OK)
 settled = resolvido (OK) 
 settlement = liquidação (OK) 
+
+Sh
 shaky = trêmulo
 shall = deve (OK)
 shatters = quebra (OK) 
@@ -190,6 +201,7 @@ silly =
 siphons = sifões (OK) 
 slashes = barras (OK)
 slave = escravo (OK)
+slaying = 
 slumber = sono
 
 Sm
@@ -201,6 +213,7 @@ spawling = ???
 spends = 
 spring = primavera (OK)
 squash = 
+standing = 
 standby = espera (OK) 
 stepped = escalonado (OK)
 still = ainda
@@ -223,6 +236,7 @@ there = ai(OK)
 thoroughly = completamente
 thousand = mil (OK)
 thought = pensamento (OK)
+thrives = 
 thriving = 
 throughout = 
 torch = tocha (OK)
@@ -236,6 +250,7 @@ twerp =
 U
 under = sob(OK)
 unleashes = desencadeia  (OK)
+unlike = 
 upset =  chateado (OK)
 
 V
@@ -249,7 +264,6 @@ wayward = rebelde
 weary = cansado(OK)
 went = foi(OK)
 were = 
-Yeah, the ruins were huge!
 Werent = não eram(OK)
 whatsoever = 
 wheter = onde
@@ -257,9 +271,12 @@ whirl = redemoinho
 whittling = talhar
 who = quem (OK) 
 whole = inteiro (OK)
+
+Wi
 widely = largamente (OK)
 widespread = generalizado(OK)
 willing = disposto
+Witchdoctor = 
 wits = sagacidade(OK)
 woodsmen = lenhadores
 worried = preocupado (OK) 
@@ -277,3 +294,6 @@ A maioria das pessoas em Weyard não tem ideia de que Vale foi sacrificado pelo 
 there
 Meet him there
 Encontre-o lá
+
+were = 
+Yeah, the ruins were huge!

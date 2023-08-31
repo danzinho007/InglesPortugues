@@ -34,6 +34,7 @@ chug = ???
 cleanse = limpar(26)
 climbed = subiu (27) 
 coated = revestido(28)
+countless = 
 coward = covarde(29)
 crash = acidente (30)
 crashed = caiu (31)
@@ -61,6 +62,7 @@ earthen = terroso (47)
 efforts = esforços (48) 
 elbow = cotovelo (49)
 elders = anciãos (50)
+emerged = 
 entrusted = confiado (51)
 explain = explicar (52)
 
@@ -74,6 +76,7 @@ fated = predestinado (57)
 fates = destinos (58)
 fault = falha (59)
 fearless = destemido (60)
+fell = 
 felled = derrubado(61)
 fledgling = calouro(62)
 flows = fluxos (63)
@@ -141,6 +144,10 @@ noise = ruído (OK)
 O
 oaf = idiota (OK) 
 off = desligado (OK) 
+old = velho
+Quando se refere a coisas/pessoas tem significado de velho, quando não, é ignorado.
+old man = idoso
+old woman = idosa
 once = uma vez (OK) 
 once-glittering = 
 outgrowing = superando (OK)
@@ -148,6 +155,7 @@ output = saída (OK)
 over = sobre (OK) 
 
 P
+passion = 
 plaguing = assolando
 plateau = platô (OK)
 pout = 
@@ -173,6 +181,7 @@ reshaped = reformulado(OK)
 rested = descansado (OK) 
 rickety = frágil
 riled = irritado (OK) 
+riveting = fascinante
 roasts = assados (OK)
 robbed = roubado (OK)
 
@@ -211,6 +220,7 @@ soarwing = voando alto (OK)
 soften = suavizar(OK)
 spawling = ???
 spends = 
+spent =
 spring = primavera (OK)
 squash = 
 standing = 
@@ -227,6 +237,7 @@ sun = sol(OK)
 supposed = suposto
 surrounded = cercado  (OK)
 swang = ???
+sway = 
 
 T
 tame = manso(OK)
@@ -241,6 +252,7 @@ thriving =
 throughout = 
 torch = tocha (OK)
 tough = difícil (OK) 
+treat = 
 trip = viagem (OK) 
 trouble = problema(OK)
 troublemaker = encrenqueiro(OK)
@@ -286,6 +298,13 @@ wounds = feridas(OK)
 wraps = envolve(OK)
 
 Frases :
+
+old
+How old this book is!
+Como este livro é velho!
+
+I'm 18 years old.
+Eu tenho 18 anos.
 
 sake
 Most people in Weyard have no ideat that Vale was sacrificed  for the sake of the world

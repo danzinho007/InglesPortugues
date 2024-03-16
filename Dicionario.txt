@@ -1,29 +1,42 @@
 ﻿Dicionário Inglês > Português
 
-A
+---Letra A---
 aftermath = resultado (01)
 aid = ajuda (02)
 ambush = emboscada (03)
 assessment = avaliação (04)
 
-B
+---Letra B---
 badly = mal (O5)
+bandage = curativo
+bangle = pulseira
 bastion = bastião (06)
+
+---Letra Be---
 beastmen =  homem-fera (07)
 beaten = espancado (08)
 below = abaixo (O9)
 besides = além de (10)
 beyond = além (11)
+
+---Letra Bi---
 bidding = licitação (12)
 blossoms = flores (13)
 blows = golpes (14)
 blunt = contundente (15)
-bold = negrito (16)
-bothered = incomodado (17)
-branble = branquela (18)
-breeze = brisa (19)
 
-C
+Bo
+bold = negrito (16)
+bolster = reforçar
+bookworm = leitor avido
+bothered = incomodado (17)
+brainstorms = ?
+branble = branquela (18)
+break = quebrar
+breeze = brisa (19)
+brisk = rápido
+
+---Letra C---
 cables = cabos (20)
 cardved = cardado (21)
 charting = gráficos (22) 
@@ -43,7 +56,7 @@ creeping = rastejando (33)
 crossbows = bestas (34)
 crusty = crocante (35)
 
-D
+---Letra D---
 damaging = prejudicial 
 dandy = elegante (36)
 deeper = mais profundo (37)
@@ -56,7 +69,7 @@ dragged = arrastado (43)
 drawers = gavetas44)
 dry = seco(45)
 
-E
+---Letra E---
 eager = ansioso (46)
 earthen = terroso (47)
 efforts = esforços (48) 
@@ -296,6 +309,41 @@ worthy = digno
 wounded = ferido (OK)
 wounds = feridas(OK)
 wraps = envolve(OK)
+
+---Dicionário---
+
+---Letra B---
+
+--- Letra C ---
+Care = Cuidado
+Chase = Perseguir
+Chemicals = Produtos químicos
+Claw = Garra
+Cross = Cruzar
+--- Letra D ---
+Defy = Desafiar
+--- Letra F ---
+Foreign = Estrangeiro
+Freak = Doido
+--- Letra G ---
+Glad = Alegra
+--- Letra H ---
+Hairclips = Grampos de cabelo
+--- Letra L ---
+Latent = Latente
+Leather = Couro
+--- Letra O ---
+Outta = Fora
+--- Letra S ---
+Sprout = Brotar
+--- Letra T ---
+Tagless = Sem etiqueta
+--- Letra U ---
+Upon = Sobre
+--- Letra W ---
+Witnesses = Testemunhas
+--- Letra Y ---
+Youth = Juventude
 
 Frases :
 

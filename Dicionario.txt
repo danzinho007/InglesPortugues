@@ -1,18 +1,21 @@
 ﻿Dicionário Inglês > Português
 
 ---Letra A---
+
 aftermath = resultado (01)
 aid = ajuda (02)
 ambush = emboscada (03)
 assessment = avaliação (04)
 
 ---Letra B---
+
 badly = mal (O5)
 bandage = curativo
 bangle = pulseira
 bastion = bastião (06)
 
 ---Letra Be---
+
 beastmen =  homem-fera (07)
 beaten = espancado (08)
 below = abaixo (O9)
@@ -20,12 +23,14 @@ besides = além de (10)
 beyond = além (11)
 
 ---Letra Bi---
+
 bidding = licitação (12)
 blossoms = flores (13)
 blows = golpes (14)
 blunt = contundente (15)
 
-Bo
+---Letra Bo---
+
 bold = negrito (16)
 bolster = reforçar
 bookworm = leitor avido
@@ -37,6 +42,7 @@ breeze = brisa (19)
 brisk = rápido
 
 ---Letra C---
+
 cables = cabos (20)
 cardved = cardado (21)
 charting = gráficos (22) 
@@ -57,6 +63,7 @@ crossbows = bestas (34)
 crusty = crocante (35)
 
 ---Letra D---
+
 damaging = prejudicial 
 dandy = elegante (36)
 deeper = mais profundo (37)
@@ -70,6 +77,7 @@ drawers = gavetas44)
 dry = seco(45)
 
 ---Letra E---
+
 eager = ansioso (46)
 earthen = terroso (47)
 efforts = esforços (48) 
@@ -79,7 +87,8 @@ emerged =
 entrusted = confiado (51)
 explain = explicar (52)
 
-F
+---Letra F---
+
 fallen = caído (53)
 far = longe (54)
 far-off = longe (55)
@@ -97,7 +106,8 @@ foe = inimigo (64)
 foreshadow = prenúncio (65) 
 full-fledged = completo (66)
 
-G
+---Letra G---
+
 gaps = lacunas (67)
 gasket = junta (68)
 getting = obtendo (69)  
@@ -110,7 +120,8 @@ guess = palpite (75)
 gulped = engoliu em seco (76)
 gumption =  bom senso(77)
 
-H
+---Letra H---
+
 had = tive (78)
 hallowed = santificado (79)
 handsome = bonito (80)
@@ -130,11 +141,13 @@ huddled = amontoado (93)
 huge = enorme (94)
 hunter = caçador (95)
 
-I
+---Letra I---
+
 into = em (96) 
 itching = coceira (97)
 
-L
+---Letra L---
+
 lack = falta (98)
 leaf = folha(99)
 lifeblood = sangue vital(100)
@@ -142,7 +155,8 @@ likely = provável
 lowlands = terras baixas(OK)
 lumberjack = lenhador (OK) 
 
-M
+---Letra M---
+
 matter = matéria (OK)
 mean = média (OK) 
 melee = corpo a corpo
@@ -154,7 +168,8 @@ mustn't = não deve (OK)
 nag = chato(OK)
 noise = ruído (OK)
 
-O
+---Letra O---
+
 oaf = idiota (OK) 
 off = desligado (OK) 
 old = velho
@@ -167,7 +182,8 @@ outgrowing = superando (OK)
 output = saída (OK)
 over = sobre (OK) 
 
-P
+---Letra P---
+
 passion = 
 plaguing = assolando
 plateau = platô (OK)
@@ -176,12 +192,14 @@ pretty = bonita (OK)
 prey = 
 pulled = puxado (OK)
 
-Q 
+---Letra Q---
+
 quakes = terremotos
 queasy = enjoado
 quotes = aspas (OK)
 
-R
+---Letra R---
+
 ranges = intervalos(OK)
 reach = alcance (OK) 
 readable = legível (OK)
@@ -198,7 +216,8 @@ riveting = fascinante
 roasts = assados (OK)
 robbed = roubado (OK)
 
-S
+---Letra S---
+
 sake = bem / saqueê (OK) 
 sap = seiva (OK)
 scaling =  
@@ -212,7 +231,8 @@ setbacks = contratempos(OK)
 settled = resolvido (OK) 
 settlement = liquidação (OK) 
 
-Sh
+---Letra Sh---
+
 shaky = trêmulo
 shall = deve (OK)
 shatters = quebra (OK) 
@@ -226,7 +246,8 @@ slave = escravo (OK)
 slaying = 
 slumber = sono
 
-Sm
+---Letra Sm---
+
 smell = cheiro (OK)
 smidge = borrão (OK) 
 soarwing = voando alto (OK)
@@ -252,7 +273,8 @@ surrounded = cercado  (OK)
 swang = ???
 sway = 
 
-T
+---Letra T---
+
 tame = manso(OK)
 thankful = grato (OK) 
 their = seus (OK) 
@@ -272,16 +294,19 @@ troublemaker = encrenqueiro(OK)
 trusted = confiável
 twerp = 
 
-U
+---Letra U---
+
 under = sob(OK)
 unleashes = desencadeia  (OK)
 unlike = 
 upset =  chateado (OK)
 
-V
+---Letra V---
+
 vanished = 
 
-W
+---Letra W---
+
 wall-like = tipo parede(OK)
 wanderers = andarilhos(OK)
 waste = lixo (OK) 
@@ -297,7 +322,8 @@ whittling = talhar
 who = quem (OK) 
 whole = inteiro (OK)
 
-Wi
+---Letra Wi---
+
 widely = largamente (OK)
 widespread = generalizado(OK)
 willing = disposto
@@ -310,57 +336,3 @@ wounded = ferido (OK)
 wounds = feridas(OK)
 wraps = envolve(OK)
 
----Dicionário---
-
----Letra B---
-
---- Letra C ---
-Care = Cuidado
-Chase = Perseguir
-Chemicals = Produtos químicos
-Claw = Garra
-Cross = Cruzar
---- Letra D ---
-Defy = Desafiar
---- Letra F ---
-Foreign = Estrangeiro
-Freak = Doido
---- Letra G ---
-Glad = Alegra
---- Letra H ---
-Hairclips = Grampos de cabelo
---- Letra L ---
-Latent = Latente
-Leather = Couro
---- Letra O ---
-Outta = Fora
---- Letra S ---
-Sprout = Brotar
---- Letra T ---
-Tagless = Sem etiqueta
---- Letra U ---
-Upon = Sobre
---- Letra W ---
-Witnesses = Testemunhas
---- Letra Y ---
-Youth = Juventude
-
-Frases :
-
-old
-How old this book is!
-Como este livro é velho!
-
-I'm 18 years old.
-Eu tenho 18 anos.
-
-sake
-Most people in Weyard have no ideat that Vale was sacrificed  for the sake of the world
-A maioria das pessoas em Weyard não tem ideia de que Vale foi sacrificado pelo bem do mundo.
-
-there
-Meet him there
-Encontre-o lá
-
-were = 
-Yeah, the ruins were huge!

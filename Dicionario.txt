@@ -1,5 +1,5 @@
 ﻿Dicionário Inglês > Português
-
+a
 ---Letra A---
 
 aftermath = resultado (01)
@@ -117,6 +117,7 @@ gotten = obtido(72)
 grasp = agarrar (73)
 grip = pegada (74)
 guess = palpite (75)
+guests = 
 gulped = engoliu em seco (76)
 gumption =  bom senso(77)
 
@@ -130,6 +131,7 @@ harder = mais difícil (82)
 hatching = eclosão (83)
 hatred = ódio (84)
 head = cabeça (85) 
+headstone = 
 hear = ouvir (86) 
 heat = calor(87)
 held = realizada (88)
@@ -165,8 +167,11 @@ might = pode(OK)
 mighty = poderoso (OK) 
 mood = humor (OK)
 mustn't = não deve (OK) 
+
+---Letra N---
 nag = chato(OK)
 noise = ruído (OK)
+northeast = 
 
 ---Letra O---
 
@@ -250,6 +255,7 @@ slumber = sono
 
 smell = cheiro (OK)
 smidge = borrão (OK) 
+sniffles = 
 soarwing = voando alto (OK)
 soften = suavizar(OK)
 spawling = ???
@@ -259,6 +265,7 @@ spring = primavera (OK)
 squash = 
 standing = 
 standby = espera (OK) 
+step = 
 stepped = escalonado (OK)
 still = ainda
 straightened = endireitado (OK) 
@@ -276,6 +283,7 @@ sway =
 ---Letra T---
 
 tame = manso(OK)
+tears = 
 thankful = grato (OK) 
 their = seus (OK) 
 there = ai(OK)

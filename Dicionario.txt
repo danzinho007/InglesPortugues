@@ -335,4 +335,3 @@ worthy = digno
 wounded = ferido (OK)
 wounds = feridas(OK)
 wraps = envolve(OK)
-

@@ -6,6 +6,7 @@ aftermath = resultado (01)
 aid = ajuda (02)
 ambush = emboscada (03)
 assessment = avaliação (04)
+awfully = 
 
 ---Letra B---
 
@@ -120,6 +121,7 @@ guess = palpite (75)
 guests = 
 gulped = engoliu em seco (76)
 gumption =  bom senso(77)
+gunspowder = 
 
 ---Letra H---
 

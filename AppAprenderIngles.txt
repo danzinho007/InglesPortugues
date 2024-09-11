@@ -1,0 +1,72 @@
+Cores :
+Beige = Bege
+Black = Preto
+Blue = Azul
+Brown = Marrom
+Cyan = Ciano
+Dark = Escuro
+Gray = Cinza
+Golden = Dourado
+Green = Verde
+Light = Claro
+Navy Blue = Azul-Marinho
+Orange = Laranja
+Pink = Rosa
+Purple = Roxo
+Red = Vermelho
+Silver = Prata
+Turquoise = Turquesa
+White = Branco
+Yellow = Amarelo
+
+Números 2 :
+Eightteen = 18
+Eleven = 11
+Fourteen = 14
+Seventeen = 17
+Twelve = 12
+
+Números 3 :
+Twenty = 20
+Twenty-eight = 28
+
+Números 4 :
+Eighty = 80
+Fifty = 50
+Forty = 40
+One hundred = 100
+One hundred fifteen = 115
+One Thousand = 1000
+Thirty = 30
+
+Casa :
+Attic = Sotão
+Backyward = Salão
+Balcony = Varanda
+Basement = Porão
+Beedrom = Quarto
+Dining room = Sala de jantar
+Hallway = Corredor
+Laundry room = Lavanderia
+Living room = Sala
+Study room = Sala de estudos
+Yard = Jardim
+
+battlements = 
+burnished = 
+canopy = 
+clad = 
+couch = 
+flurtter =
+hanging =  
+joyously = 
+lying = 
+perched = 
+regaining =
+sleek = 
+there =  
+topmost = 
+trilling =
+turret =   
+velvet =
+warm =  

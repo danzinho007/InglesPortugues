@@ -1,3 +1,48 @@
+Índice :
+
+Alfabeto
+Banheiro = OK
+Casa = OK
+Comprimentos
+Cores = OK
+Família 1 (OK), 2
+Pessoas 1 (OK), 2
+Pronomes (OK)
+Quarto (OK)
+Sala de estudos (OK)
+
+---
+Banheiro :
+
+Bathrobe = 
+Bathtub = Banheira
+Hair dryer = Secador de cabelo
+Hairbrush = Escova de cabelo
+Hand towel = Toalha de mão
+Mirror = Espelho
+Shower = Chuveiro
+Shower curtain = 
+Toilet = Vaso sanitário
+Towel = Toalha
+
+Cortina de chuveiro = Shower curtain
+Roupão de banho = Bathrobe
+Toalha de mão = Hand towel
+
+---
+Casa :
+Attic = Sotão
+Backyward = Salão
+Balcony = Varanda
+Basement = Porão
+Beedrom = Quarto
+Dining room = Sala de jantar
+Hallway = Corredor
+Laundry room = Lavanderia
+Living room = Sala
+Study room = Sala de estudos
+Yard = Jardim
+
 Cores :
 Beige = Bege
 Black = Preto
@@ -19,6 +64,25 @@ Turquoise = Turquesa
 White = Branco
 Yellow = Amarelo
 
+---
+Família :
+
+Aunt = Tia
+Daugther = Filha
+Father = Pai
+Grandmother = Avó
+Grandson = Neto
+Mother = Mãe
+Niece = Sobrinha
+Son = 
+Uncle = Tio
+
+Irmã = Sister
+Neta = 
+Primo = Cousin
+Sobrinha = Niece 
+
+---
 Números 2 :
 Eightteen = 18
 Eleven = 11
@@ -39,34 +103,65 @@ One hundred fifteen = 115
 One Thousand = 1000
 Thirty = 30
 
-Casa :
-Attic = Sotão
-Backyward = Salão
-Balcony = Varanda
-Basement = Porão
-Beedrom = Quarto
-Dining room = Sala de jantar
-Hallway = Corredor
-Laundry room = Lavanderia
-Living room = Sala
-Study room = Sala de estudos
-Yard = Jardim
+---
+Pessoas 1 :
 
-battlements = 
-burnished = 
-canopy = 
-clad = 
-couch = 
-flurtter =
-hanging =  
-joyously = 
-lying = 
-perched = 
-regaining =
-sleek = 
-there =  
-topmost = 
-trilling =
-turret =   
-velvet =
-warm =  
+Best friend = Melhor amigo
+Boy = Menino
+Friend = Amigo
+Girl = Menina
+Girlfriend = Namorada
+Man = Homem
+Men = Homens
+Woman = Mulher
+Women = Mulheres
+
+---
+Pronomes :
+
+Her = Dela
+His = Dele
+I = Eu 
+My = 
+Our = Nosso
+She = Ela
+Their = Deles
+They = Eles / Elas
+We = Nós
+You = Você
+Your = 
+
+---
+Quarto
+
+Alarm clock = Despertador
+Bed = Cama
+Bed Sheet = Lençol de cama
+Bedside Table = Mesa de cabeceira
+Blanket = Cobertor
+Fan = Ventilador
+Hanger = Cabide
+Pillow = Travesseiro
+Wardrobe = Guarda roupa
+
+Colchão = 
+Guarda roupa = Wardrobe
+Mesa de cabeceira = Bedside Table
+
+---
+Sala de estudos :
+
+Bookshelf = Estante de livros
+Calendar = 
+Computer = 
+Desk = Escrivaninha
+Drawer = Gaveta
+Ink = Tinta
+Map = Mapa
+Paintbrush = Pincel
+Printer = Impressora 
+Stapler = 
+
+Gaveta - 
+Grampeador = Stapler (Esteipo)
+Tinta = Ink

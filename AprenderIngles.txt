@@ -1,5 +1,24 @@
 Índice :
 
+Revisão 1 
+Brown = Marrom
+Dark = Escuro
+He ( ri ) = Ele
+His = Dele
+Navy blue = Azul-Marinho
+Our = Nosso
+
+Dela = Her
+
+Revisão 2 :
+03 = Three
+28 = Twenty-eight
+80 = Eighty
+115 = One-hundred-fifteen
+5000 = Five-hundred
+
+Twelve = 12
+
 Alfabeto
 Banheiro = OK
 Casa = OK
@@ -11,7 +30,32 @@ Pronomes (OK)
 Quarto (OK)
 Sala de estudos (OK)
 
----
+-------------------
+Revisão 3 : Tentei 1-2-3-4
+
+Balcony = Varanda
+Bath = Roupão de banho
+Bedroom = Quarto
+Beldside table = Mesa de cabeceira
+Dining room = Sala de jantar
+Hand towel ( reitau ) = Toalha de mão
+Harbrush = Escova de cabelo
+Ink = Tinta
+Laundry room = Lavanderia
+Living room = Sala
+Mattress = Colchão
+Shower curtain = Cortina de chuveiro
+Yard = Jardim
+
+Cabide = Hanger
+Escova de cabelo = Harbrush
+Grampeador = Stapler
+Guarda-roupa = Wardrobe
+Roupão de banho = Bathrobe
+Sala de jantar = Dining room
+Varanda = Balcony
+
+--------------
 Banheiro :
 
 Bathrobe = 

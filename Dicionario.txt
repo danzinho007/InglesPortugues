@@ -345,3 +345,29 @@ worthy = digno
 wounded = ferido (OK)
 wounds = feridas(OK)
 wraps = envolve(OK)
+
+
+Dicionário :
+
+Aunt
+Bell
+Chewed
+Going
+Grounded
+Homework
+Keep
+Let
+Mean
+Misbehave
+Oversleep
+Rift
+Summer
+Taste
+Vacation
+Whatever
+Worse
+
+Hang out
+
+Grimoire of the Rift
+I'm out that door as soon as the teacher stops talking

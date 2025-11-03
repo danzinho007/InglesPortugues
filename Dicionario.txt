@@ -46,20 +46,29 @@ brisk = rápido
 
 cables = cabos (20)
 cardved = cardado (21)
+care = cuidado 
 charting = gráficos (22) 
 charsms = carismas (23)
+chase = perseguir 
+
+---Letra Che----
 cheering = torcendo(24)
+Chemicals = produtos químicos
 chopping = cortando (25)
 chug = ???
+claw = garra
 cleanse = limpar(26)
 climbed = subiu (27) 
 coated = revestido(28)
 countless = 
 coward = covarde(29)
+
+--- Letra Cra ---
 crash = acidente (30)
 crashed = caiu (31)
 creaky = rangente (32)
 creeping = rastejando (33)
+cross = cruzar 
 crossbows = bestas (34)
 crusty = crocante (35)
 

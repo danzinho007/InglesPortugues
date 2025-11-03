@@ -1,14 +1,3 @@
-
----Dicionário---
-
----Letra B---
-
---- Letra C ---
-Care = Cuidado
-Chase = Perseguir
-Chemicals = Produtos químicos
-Claw = Garra
-Cross = Cruzar
 --- Letra D ---
 Defy = Desafiar
 --- Letra F ---
@@ -38,18 +27,18 @@ Frases :
 
 old
 How old this book is!
-Como este livro é velho!
+Como este livro ï¿½ velho!
 
 I'm 18 years old.
 Eu tenho 18 anos.
 
 sake
 Most people in Weyard have no ideat that Vale was sacrificed  for the sake of the world
-A maioria das pessoas em Weyard não tem ideia de que Vale foi sacrificado pelo bem do mundo.
+A maioria das pessoas em Weyard nï¿½o tem ideia de que Vale foi sacrificado pelo bem do mundo.
 
 there
 Meet him there
-Encontre-o lá
+Encontre-o lï¿½
 
 were = 
 Yeah, the ruins were huge!
